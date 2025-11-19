@@ -3,8 +3,8 @@
 ## Dependencias
 No terminal do Windows, rode:
 
-- `pip install pip install chardet`
-- `pip install pip install tqdm`
+- `pip install chardet`
+- `pip install tqdm`
 
 ## Modo de usar:
 No terminal do Windows e na pasta que contém os arquivos CSV a serem convertidos:
